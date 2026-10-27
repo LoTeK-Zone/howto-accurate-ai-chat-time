@@ -31,7 +31,7 @@ license: CC-BY-4.0
 ![AI](https://img.shields.io/badge/AI-Agents-purple?style=flat-square)
 ![Website](https://img.shields.io/badge/website-lotek--zone.com-black?style=flat-square)
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/LoTeK-Zone/howto-ai-chat-accurate-time?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/LoTeK-Zone/howto-accurate-ai-chat-time?style=flat-square)
 
 ## Quick Assessment
 
